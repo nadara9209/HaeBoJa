@@ -4,3 +4,6 @@ function btnA_onClick() {
 }
 
 
+function btnC_onClick() {
+    alert("버튼 C 클릭!");
+}
