@@ -27,3 +27,7 @@ function btnF_onClick() {
     alert("버튼 F 클릭!");
 }
 
+function btnI_onClick() {
+    alert("버튼 I 클릭!");
+}
+
