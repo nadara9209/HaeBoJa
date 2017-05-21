@@ -30,8 +30,3 @@ function btnF_onClick() {
 function btnH_onClick() {
     alert("버튼 H 클릭!");
 }
-
-function btnI_onClick() {
-    alert("버튼 I 클릭!");
-}
-
